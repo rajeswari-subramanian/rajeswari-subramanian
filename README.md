@@ -1,4 +1,4 @@
-![Hi, I'm Rajeswari 👋](https://github.com/rajeswari-subramanian/rajeswari-subramanian/blob/main/Untitled-3.gif)
+![Hi, I'm Rajeswari 👋](https://github.com/rajeswari-subramanian/rajeswari-subramanian/blob/main/Lovecoding.gif)
 <!--<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rajeswari Subramanian</h1>-->
 <div align="center">A passionate Full Stack Web developer from Bangalore, India</div><br />
 <div align="center">View my portfolio at <a href="https://rajeswari-subramanian.github.io/">rajeswari-subramanian.github.io</a></div><br />
