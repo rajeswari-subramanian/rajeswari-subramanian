@@ -17,12 +17,12 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   
  </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   </p>   
-<hr />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeswari-subramanian&layout=compact&title_color=d68c20&bg_color=000000&text_color=fed85b" />
-<hr />
+<h1></h1>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeswari-subramanian&layout=compact&title_color=d68c20&bg_color=000000&text_color=fed85b" /></p>
+<h1></h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeswari-subramanian&show_icons=true&theme=great-gatsby" />
-<hr />
-<h3 align="left">Connect with me:</h3><br />
+<h1></h1>
+<h3 align="center">Connect with me:</h3><br />
 <p align="center">
 <a href="mailto:rajilechrame@gmail.com" target="blank">Gmail</a>
 <a href="https://linkedin.com/in/rajeswari-subramanian-82094b6a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajeswari-subramanian-82094b6a" height="30" width="40" /></a>
