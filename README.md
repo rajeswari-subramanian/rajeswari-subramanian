@@ -23,7 +23,7 @@
 <h1></h1>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeswari-subramanian&show_icons=true&theme=great-gatsby" /></p>
 <h1></h1>
-<h3 align="center">Connect with me:</h3><br />
+<h3 align="center">Connect With Me</h3><br />
 <p align="center">
     <a href="mailto:rajilechrame@gmail.com" mailto="rajilechrame@gmail.com" target="_blank">
     <img width="100px"   src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
