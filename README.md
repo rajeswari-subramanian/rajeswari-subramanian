@@ -20,7 +20,7 @@
 <h1></h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeswari-subramanian&layout=compact&title_color=d68c20&bg_color=000000&text_color=fed85b" /></p>
 <h1></h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeswari-subramanian&show_icons=true&theme=great-gatsby" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeswari-subramanian&show_icons=true&theme=great-gatsby" /></p>
 <h1></h1>
 <h3 align="center">Connect with me:</h3><br />
 <p align="center">
