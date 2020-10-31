@@ -1,5 +1,3 @@
-![Banner Image](https://media-exp1.licdn.com/dms/image/C4D16AQG1R8nG5pM6ow/profile-displaybackgroundimage-shrink_200_1000/0?e=1609372800&v=beta&t=f1_oNNRstugvBpNetDgsGwVw6TE5QCDCHsZNC1759AY)
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rajeswari Subramanian</h1>
 <div align="center">A passionate Full Stack Web developer from Bangalore, India</div><br />
 <div align="center">View my portfolio at <a href="https://rajeswari-subramanian.github.io/">rajeswari-subramanian.github.io</a></div><br />
