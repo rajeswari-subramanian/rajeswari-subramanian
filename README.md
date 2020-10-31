@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Rajeswari</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
+
+
+
 ### Hello, I'm ✨ _Rajeswari Subramanian 👋_ ✨ 
 
 - I am a full stack developer from  Bangalore, India.
