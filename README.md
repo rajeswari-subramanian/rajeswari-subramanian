@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajeswari Subramanian</h1>
-<div align="center">A passionate Full Stack Web developer from Bangalore, India</div>
+<div align="center">A passionate Full Stack Web developer from Bangalore, India</div><br />
 <div align="center">View my portfolio at <a href="https://rajeswari-subramanian.github.io/">rajeswari-subramanian.github.io</a></div><br />
-</hr >
-<h3 align="center">Technologies I Am Fluent With</h3>
+<h1><hr /></h1>
+<h3 align="center">Technologies I Am Fluent With</h3><br />
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -22,11 +22,8 @@
 <hr />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeswari-subramanian&show_icons=true&theme=great-gatsby" />
 <hr />
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><br />
 <p align="center">
-  <a href="mailto:rajilechrame@gmail.com" target="blank">Gmail</a>
-<a href="https://twitter.com/rajeswari_subra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajeswari_subra" height="30" width="40" /></a>
+<a href="mailto:rajilechrame@gmail.com" target="blank">Gmail</a>
 <a href="https://linkedin.com/in/rajeswari-subramanian-82094b6a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajeswari-subramanian-82094b6a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajisubramanian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rajisubramanian" height="30" width="40" /></a>
-  
 </p>
