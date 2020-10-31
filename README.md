@@ -26,7 +26,7 @@
 <h3 align="center">Connect with me:</h3><br />
 <p align="center">
     <a href="mailto:rajilechrame@gmail.com" mailto="rajilechrame@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+    <img width="100px"   src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a> 
 <a href="https://linkedin.com/in/rajeswari-subramanian-82094b6a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"></a>
 </p>
