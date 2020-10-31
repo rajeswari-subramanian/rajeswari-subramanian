@@ -3,7 +3,7 @@
 - I am a full stack developer from  Bangalore, India.
 - View my portfolio at [rajeswari-subramanian.github.io](https://rajeswari-subramanian.github.io/)<hr />
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rajeswari-subramanian&show_icons=true&theme=great-gatsby" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeswari-subramanian&show_icons=true&theme=great-gatsby" />
 
 ### Language Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeswari-subramanian&layout=compact&bg_color=000000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeswari-subramanian&layout=compact&bg_color=000000&color=D68C20" />
